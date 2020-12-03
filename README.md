@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
 <h3 align="center">A student and professional full stack developer</h3>
+<br/>
+<br/>
 
 <p>- 💼 I'm currently working as a freelancer but I'm looking for a full-time job 😁</p>
 <p>- 👨‍🎓 I'm an MBA student and I'm specializing in Full Stack Development at IGTI (Instutuo de Gestão e Tecnologia da Informação)</p>
