@@ -3,7 +3,7 @@
 <br/>
 
 
-<p>- 💼 I'm currently working as a freelancer but I'm looking for a full-time job</p>
+<p>- 💼 I'm currently working as a backend developer at Mestres da Web</p>
 <p>- 👨‍🎓 I'm an MBA student and I'm specializing in Full Stack Development at IGTI (Instutuo de Gestão e Tecnologia da Informação)</p>
 <p>- 🎓 What am I currently studying? <strong>PostgreSQL</strong> <strong>React Native</strong> <strong>TypeScript</strong> <strong>TypeORM</strong> </p> 
 <p>- 💻 What do I currently work with? <strong>MongoDB</strong> <strong>Node.js</strong> <strong>React</strong> 
