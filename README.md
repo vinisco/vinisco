@@ -3,7 +3,7 @@
 <br/>
 
 
-<p>- 💼 I'm currently working as a fullstack developer at Rocket Bank</p>
+<p>- 💼 I'm currently working as a Full Stack Developer at Rocket Bank</p>
 <p>- 👨‍🎓 I have a MBA degree in Full Stack Development from IGTI (Instutuo de Gestão e Tecnologia da Informação)</p>
 <p>- 🎓 What am I currently studying? <strong>PostgreSQL</strong> <strong>React Native</strong> <strong>TypeScript</strong> <strong>TypeORM</strong> <strong>Jest</strong> </p> 
 <p>- 💻 What do I currently work with? <strong>MongoDB</strong> <strong>Node.js</strong> <strong>PostgreSQL</strong> <strong>TypeScript</strong> <strong>TypeORM</strong> <strong>React</strong> <strong>Jest</strong>  </p> 
