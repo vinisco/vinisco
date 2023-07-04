@@ -22,8 +22,6 @@ vinisco@hotmail.com</ a></strong></p>
   /></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinisco)](https://github.com/vinisco/github-readme-stats)
-
 
 
 
