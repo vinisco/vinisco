@@ -3,8 +3,8 @@
 <br/>
 
 
-<p>- 💼 I'm currently working as a Full Stack Developer at Karhub</p>
-<p>- 👨‍🎓 I have a MBA degree in Full Stack Development from XPEducação</p>
+<p>- 💼 I'm currently working as a Full Stack Developer at Karhub </p>
+<p>- 👨‍🎓 I have a MBA degree in Full Stack Development from XPEducação </p>
 <p>- 💻 What do I currently work with? <strong>Node.js</strong> - <strong>Nest</strong> - <strong>TypeScript</strong> - <strong>TypeORM</strong> - <strong>PostgreSQL</strong> - <strong>MongoDB</strong> - <strong>React</strong> - <strong>Remix</strong> - <strong>Jest</strong> </p> 
 <p>- 📩 You can reach me at <strong><a href="mailto:vinisco@hotmail.com?subject=Hello,%20Vinicius">
 vinisco@hotmail.com</ a></strong></p>
