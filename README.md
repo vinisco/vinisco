@@ -1,23 +1,35 @@
-<h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">A professional Full Stack Engineer</h3>
+<h1 align="center">Hello, I'm Vinícius</h1>
+<h3 align="center">Full Stack Engineer</h3>
+
+<p align="center">
+  I’m passionate about crafting efficient, scalable, and user-focused solutions. 
+  With an MBA in Full Stack Development from XPEducação, I specialize in building robust applications 
+  using TypeScript, Node.js, Nest, React, and Remix.
+</p>
+
 <br/>
 
+<h3>About Me</h3>
+<ul>
+  <li>💼 <strong>Current Role:</strong> Full Stack Engineer at KarHub</li>
+  <li>👨‍🎓 <strong>Education:</strong> MBA in Full Stack Development from XPEducação</li>
+  <li>💻 <strong>Tech Stack:</strong> TypeScript, Node.js, Nest, React, Remix</li>
+  <li>📩 <strong>Contact:</strong> 
+    <a href="mailto:vinisco@hotmail.com?subject=Hello,%20Vinicius">vinisco@hotmail.com</a>
+  </li>
+</ul>
 
-<p>- 💼 I'm currently working as a Full Stack Engineer at Karhub </p>
-<p>- 👨‍🎓 I have a MBA degree in Full Stack Development from XPEducação </p>
-<p>- 💻 What do I currently work with? <strong>TypeScript</strong> - <strong>Node.js</strong> - <strong>Nest</strong> - <strong>React</strong> - <strong>Remix</strong>
-<p>- 📩 You can reach me at <strong><a href="mailto:vinisco@hotmail.com?subject=Hello,%20Vinicius">
-vinisco@hotmail.com</ a></strong></p>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-  <a
-    href="https://www.linkedin.com/in/viniciuslsena/"
-    target="blank"
-    ><img
+<h3>Connect with Me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/viniciuslsena/" target="_blank">
+    <img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="https://www.linkedin.com/in/viniciuslsena"
+      alt="LinkedIn - viniciuslsena"
       height="30"
       width="40"
-  /></a>
+    />
+  </a>
 </p>
